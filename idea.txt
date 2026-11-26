@@ -1,0 +1,17 @@
+**The problem:**
+
+Millions of people in India face difficulties reporting everyday civic issues such as potholes, overflowing garbage, irregular water supply, blocked drainage and broken streetlights. Traditional grievance portals often require lengthy forms, written descriptions and familiarity with digital systems. This creates barriers for people with limited digital literacy or those who are more comfortable communicating in their regional languages.
+
+**Who has it, where and how often:**
+
+This problem affects residents of rural villages, small towns and urban neighborhoods, particularly elderly citizens, daily-wage workers and people with limited reading or typing skills. It occurs repeatedly in everyday life. Citizens may encounter overflowing garbage every morning, damaged roads during daily commutes or water supply problems for several consecutive days. Despite affecting their daily lives, many people struggle to report these issues through existing digital channels.
+
+**The voice-first product:**
+
+JanSuno AI is a multilingual, AI-powered civic grievance assistant that allows citizens to report problems simply by speaking in their preferred language, such as Hindi, Hinglish or other Indian languages. The system converts speech into text, identifies the complaint category, extracts relevant details, generates a structured grievance and asks the citizen to confirm it. After confirmation, it creates a unique reference ID and enables citizens to track complaint status through voice interactions.
+
+**Why voice comes first:**
+
+Speaking is more natural and accessible than typing lengthy descriptions or navigating complicated forms. Citizens can explain problems in their own words and mother tongue without needing to understand formal government terminology. Voice interaction reduces digital barriers and makes civic services more accessible to elderly people, people with disabilities and citizens with limited literacy.
+
+Our vision is simple: **Every Indian citizen should be able to make their voice heard and report a civic problem as easily as having a conversation.**
